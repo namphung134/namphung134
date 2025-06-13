@@ -41,6 +41,7 @@
 ![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-%2300CED1.svg?style=plastic)
 ![AI Agent](https://img.shields.io/badge/AI%20Agent-LLM_Orchestration-%2325aae1.svg?style=plastic)
 ![ASR](https://img.shields.io/badge/ASR-Speech_to_Text-%23FF6347.svg?style=plastic)
+![TTS](https://img.shields.io/badge/TTS-Text_to_Speech-%239ACD32.svg?style=plastic)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=keras&logoColor=white)
