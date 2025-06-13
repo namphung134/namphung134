@@ -57,6 +57,6 @@
 
 ## 📫 How to reach me:
 
-- Email: [tranvanphuc.dev.it.2002@gmail.com]
-- Facebook: [@yourfacebook](https://www.facebook.com/phucx.trans.7)
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/phuc-dut-0082962bb/)
+- Email: [namphungdn134@gmail.com]
+- Facebook: [@yourfacebook](https://www.facebook.com/nmph13)
+- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/namlephung/)
