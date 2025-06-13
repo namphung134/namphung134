@@ -6,7 +6,7 @@
 
 🛜 Currently working on my own webpage <br>
 👨🏼‍🎓 Nam Phung, Student at Uni of Science and Technogogy, Danang. Computer Science with focus on AI and IoT. <br>
-👨🏼‍💻 Working as a AI developer since 2024
+👨🏼‍💻 Working as a AI Engineer since 2025
 
 ## 💻 Tech Stack:
 
