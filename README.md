@@ -33,8 +33,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
 ![Matlab](https://img.shields.io/badge/MATLAB-%23f58025.svg?style=plastic&logo=Mathworks&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=tensorflow&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFD21F.svg?style=plastic&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=plastic&logo=LangChain&logoColor=white)
 ![Autogen](https://img.shields.io/badge/Autogen-AI-%23A020F0.svg?style=plastic)
