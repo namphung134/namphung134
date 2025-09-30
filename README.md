@@ -11,7 +11,7 @@ Computer Science major with focus on Artificial Intelligence, Data, and IoT. <br
 
 👨🏼‍💻 AI Engineer.  
 
-I specialize in **Artificial Intelligence and Data-driven solutions**, with expertise in **Large Language Models (LLMs), Computer Vision, Natural Language Processing (NLP/NLU), and Speech Recognition**.  
+I specialize in **Artificial Intelligence and Data-driven solutions**, with expertise in **Large Language Models (LLMs), Computer Vision, Natural Language Processing (NLP/NLU), and Speech Technology**.  
 My work focuses on developing **scalable AI systems and intelligent data pipelines**, leveraging techniques such as **Agentic RAG, Function Calling, Agent-based AI, and Large Action Models**.  
 
 I am passionate about integrating **AI and Data** to address real-world challenges, and continuously expanding my knowledge in **emerging AI technologies, data engineering, and applied machine learning**.
